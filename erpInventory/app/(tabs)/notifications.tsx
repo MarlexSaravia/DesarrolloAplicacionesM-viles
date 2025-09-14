@@ -38,7 +38,7 @@ export default function Inventario() {
 
       {/* Título */}
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title" style={styles.titleText}>📂 Inventario de Gastos</ThemedText>
+        <ThemedText type="title" style={styles.titleText}>📂 Inventario de Gastos hormiga</ThemedText>
       </ThemedView>
 
       {/* Resumen */}
