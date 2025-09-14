@@ -20,7 +20,7 @@ function GastoItem({ concepto, monto, fecha }: { concepto: string; monto: number
     <ThemedView style={styles.itemContainer}>
       <ThemedText type="subtitle" style={styles.itemTitle}>{concepto}</ThemedText>
       <ThemedText style={styles.itemText}>💰 Monto: ${monto}</ThemedText>
-      <ThemedText style={styles.itemText}>📅 Fecha: {fecha}</ThemedText>
+      <ThemedText style={styles.itemText}>📅 Fecha:agosto {fecha}</ThemedText>
     </ThemedView>
   );
 }
