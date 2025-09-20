@@ -17,7 +17,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome to inventory
+        <ThemedText type="title">Welcome to inventory proximo
         </ThemedText>
         <HelloWave />
       </ThemedView>
