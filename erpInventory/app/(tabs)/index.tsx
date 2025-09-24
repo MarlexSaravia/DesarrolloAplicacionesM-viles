@@ -17,7 +17,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">pagina de inicio nooooooo
+        <ThemedText type="title">pagina de inicio fuente de oro
         </ThemedText>
         <HelloWave />
       </ThemedView>
