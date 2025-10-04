@@ -17,7 +17,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Main renuevo
+        <ThemedText type="title">Main renuevo...
         </ThemedText>
         <HelloWave />
       </ThemedView>
