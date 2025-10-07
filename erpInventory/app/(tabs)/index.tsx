@@ -33,7 +33,7 @@ export default function HomeScreen() {
               web: 'F12',
             })}
           </ThemedText>{' '}
-          to open developer tools.
+          Fails from 45%
         </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
