@@ -33,7 +33,7 @@ export default function HomeScreen() {
               web: 'F12',
             })}
           </ThemedText>{' '}
-          Fails from 45%
+          Fails from 99% on yatagarasu
         </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
