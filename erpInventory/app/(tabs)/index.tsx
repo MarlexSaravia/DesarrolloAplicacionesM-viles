@@ -33,7 +33,7 @@ export default function HomeScreen() {
               web: 'F12',
             })}
           </ThemedText>{' '}
-          Fails from 99% on zodiac
+          New Sheed Spreed 
         </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
